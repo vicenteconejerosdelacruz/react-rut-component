@@ -1,21 +1,21 @@
 {
-  "name": "react-rut",
+  "name": "react-rut-component",
   "version": "1.0.0",
   "description": "A component to deal with chilean rut",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vichoconejeros/react-rut.git"
+    "url": "git+https://github.com/vichoconejeros/react-rut-component.git"
   },
   "keywords": [
     "chilean-rut"
   ],
-  "author": "@vichoconejeros",
+  "author": "@vicenteconejerosdelacruz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vichoconejeros/react-rut/issues"
+    "url": "https://github.com/vichoconejeros/react-rut-component/issues"
   },
-  "homepage": "https://github.com/vichoconejeros/react-rut#readme",
+  "homepage": "https://github.com/vichoconejeros/react-rut-component#readme",
   "dependencies": {
     "react": "^17.0.1"
   }
